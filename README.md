@@ -15,9 +15,7 @@ This is a Photo Gallery based on a specicific colour scheme. The gallery showcas
 3. Implement tonal filters
 
 ### Code Review (14th May)
-Code reviews can be found in the coe-review md file.
+Code reviews can be found in the code-review.md file.
 
-**bold text**
-*italictext*
-~~strikethroughtext~~
+
 `<p>Here is some text</p>`
